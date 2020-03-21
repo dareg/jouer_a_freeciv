@@ -17,7 +17,7 @@ sudo apt install freeciv freeciv-client-gtk3 freeciv-client-extras -t buster-bac
 
 ## Installation du mod/Mod installation
 
-Debian (buster):
+Debian (buster/buster-backports):
 ```
 freeciv-mp-gtk3 -i http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack
 ```
