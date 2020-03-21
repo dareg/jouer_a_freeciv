@@ -10,12 +10,23 @@ Debian (buster):
 sudo apt install freeciv freeciv-client-gtk3 freeciv-client-extras
 ```
 
+Debian (buster-backports):
+```
+sudo apt install freeciv freeciv-client-gtk3 freeciv-client-extras -t buster-backports
+```
+
 ## Installation du mod/Mod installation
 
 Debian (buster):
 ```
 freeciv-mp-gtk3 -i http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack
 ```
+
+## À propos du mod/About the mod
+
+http://forum.freeciv.org/f/viewtopic.php?t=91047  
+https://freeciv.fandom.com/wiki/Augmented2_ruleset_modpack  
+https://github.com/Wahazar/augmented2/tree/longturn
 
 ## Vérification/Check
 
