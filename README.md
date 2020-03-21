@@ -37,3 +37,6 @@ Launch Freeciv and create a new local game, you should be able to choose the new
 
 Il est conseillé de lancer une partie en solo afin de voir un peu comment fonctionne le jeu avec ces règles.  
 It is advised to start a single game in order to understant how the game and the ruleset works.
+
+# Se connecter au serveur/Connecting to the server
+...
