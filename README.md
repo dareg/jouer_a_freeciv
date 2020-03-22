@@ -15,6 +15,9 @@ Debian (buster-backports):
 sudo apt install freeciv freeciv-client-gtk3 freeciv-client-extras -t buster-backports
 ```
 
+Windows:  
+http://files.freeciv.org/packages/windows/Freeciv-2.6.2-win32-gtk3-setup.exe
+
 ## Installation du mod/Mod installation
 
 Debian (buster/buster-backports):
