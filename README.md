@@ -25,6 +25,12 @@ Debian (buster/buster-backports):
 freeciv-mp-gtk3 -i http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack
 ```
 
+Windows:  
+
+Recherchez un programme ayant un nom tel que *freeciv modpack installer* et lancer le. Une fenêtre devrait s'ouvrir, sélectionnez le champs URL en bas de la fenêtre et collez y l'URL http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack puis cliquez sur installer.
+
+Look for a program named like *freeciv modpack installer* and launch it. You should see a window opening, go into the URL field at the bottom of the window and paste the URL http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack then click on the install button.
+
 ## À propos du mod/About the mod
 
 http://forum.freeciv.org/f/viewtopic.php?t=91047  
