@@ -5,27 +5,27 @@
 
 ## Installation du jeu/Game installation
 
-Debian (buster):
+- Debian (buster):
 ```
 sudo apt install freeciv freeciv-client-gtk3 freeciv-client-extras
 ```
 
-Debian (buster-backports):
+- Debian (buster-backports):
 ```
 sudo apt install freeciv freeciv-client-gtk3 freeciv-client-extras -t buster-backports
 ```
 
-Windows:  
+- Windows:  
 http://files.freeciv.org/packages/windows/Freeciv-2.6.2-win32-gtk3-setup.exe
 
 ## Installation du mod/Mod installation
 
-Debian (buster/buster-backports):
+- Debian (buster/buster-backports):
 ```
 freeciv-mp-gtk3 -i http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack
 ```
 
-Windows:  
+- Windows:  
 
 Recherchez un programme ayant un nom tel que *freeciv modpack installer* et lancer le. Une fenêtre devrait s'ouvrir, sélectionnez le champs URL en bas de la fenêtre et collez y l'URL http://149.156.194.203/~mczapkie/fc/augmented/augmented2.modpack puis cliquez sur installer.
 
