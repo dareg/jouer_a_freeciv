@@ -1,0 +1,18 @@
+/fcdb lua sqlite_createdb()
+cmdlevel none
+read augmented2.serv
+rulesetdir augmented2
+set scorelog enabled
+set citynames "NO_RESTRICTIONS"
+set airliftingstyle "FROM_ALLIES|TO_ALLIES"
+set airliftingstyle "FROM_ALLIES|TO_ALLIES"
+set migration enabled
+set mgr_distance 3
+set timeout 345600
+set aifill 0
+set generator "FRACTAL"
+set separatepoles disabled
+set minplayers 4
+set nationset "all"
+set phasemode "PLAYER"
+set ec_turns 2
