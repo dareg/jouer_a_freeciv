@@ -45,7 +45,7 @@ while True:
 
         msg = EmailMessage()
         msg['From'] = fromaddr
-        msg['To'] = people[next_player%4]
+        msg['To'] = people[next_player%len(people)]
         msg.preamble = 'Free-ee-civ!'
 
         msg['Subject'] = 'À toi de jouer ! ' + m.group(0)
